@@ -1,4 +1,4 @@
 # firstHTML
-My first attempt
+First HTML + CSS + JS page
 
 This contains my first HTML page
